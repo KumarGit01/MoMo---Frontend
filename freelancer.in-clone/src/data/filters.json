@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "budget",
+    "options": ["$500", "$1000", "$200", "$150", "$800", "$600", "$300", "$1200"]
+  },
+  {
+    "id": 2,
+    "name": "description",
+    "options": [
+      "We need a developer to build a responsive website.",
+      "Looking for an experienced mobile app developer.",
+      "Need a graphic designer to create a logo.",
+      "Looking for a content writer to write blog posts.",
+      "Need a developer to build an e-commerce website.",
+      "Looking for an SEO expert to optimize our website.",
+      "Need a marketing specialist to create a strategy.",
+      "Looking for a game developer.",
+      "Need an animator for a short video.",
+      "Looking for a database expert."
+    ]
+  }
+]

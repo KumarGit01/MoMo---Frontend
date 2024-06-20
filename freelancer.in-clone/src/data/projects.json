@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Build a website",
+    "description": "We need a developer to build a responsive website.",
+    "budget": "$500",
+    "category": "Web Development"
+  },
+  {
+    "id": 2,
+    "title": "Create a mobile app",
+    "description": "Looking for an experienced mobile app developer.",
+    "budget": "$1000",
+    "category": "Mobile Development"
+  },
+  {
+    "id": 3,
+    "title": "Design a logo",
+    "description": "Need a graphic designer to create a logo.",
+    "budget": "$200",
+    "category": "Graphic Design"
+  },
+  {
+    "id": 4,
+    "title": "Write blog posts",
+    "description": "Looking for a content writer to write blog posts.",
+    "budget": "$150",
+    "category": "Content Writing"
+  },
+  {
+    "id": 5,
+    "title": "Develop an e-commerce site",
+    "description": "Need a developer to build an e-commerce website.",
+    "budget": "$800",
+    "category": "Web Development"
+  },
+  {
+    "id": 6,
+    "title": "SEO optimization",
+    "description": "Looking for an SEO expert to optimize our website.",
+    "budget": "$300",
+    "category": "SEO"
+  },
+  {
+    "id": 7,
+    "title": "Create a marketing strategy",
+    "description": "Need a marketing specialist to create a strategy.",
+    "budget": "$600",
+    "category": "Marketing"
+  },
+  {
+    "id": 8,
+    "title": "Develop a game",
+    "description": "Looking for a game developer.",
+    "budget": "$1200",
+    "category": "Game Development"
+  },
+  {
+    "id": 9,
+    "title": "Create an animation",
+    "description": "Need an animator for a short video.",
+    "budget": "$400",
+    "category": "Animation"
+  },
+  {
+    "id": 10,
+    "title": "Database design",
+    "description": "Looking for a database expert.",
+    "budget": "$500",
+    "category": "Database Management"
+  }
+]

@@ -1,0 +1,53 @@
+/* App.css */
+
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding-top: 40px; /* Space for fixed nav bar */
+}
+
+/* Navigation bar styles */
+.AppNav {
+  background-color: #333;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.AppNav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.AppNav ul li {
+  float: left;
+}
+
+.AppNav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.AppNav ul li a:hover {
+  background-color: #555;
+}
+
+/* Main content container */
+.main-content {
+  padding: 20px;
+  margin-top: 60px; /* Space for fixed nav bar */
+}

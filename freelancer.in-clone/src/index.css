@@ -1,0 +1,91 @@
+
+  
+  .project-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .filter-section {
+    margin-bottom: 20px;
+  }
+  
+  .filter {
+    margin-bottom: 10px;
+  }
+  
+  .skeleton-loader {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f0f0f0;
+  }
+  
+  .skeleton-title,
+  .skeleton-description,
+  .skeleton-budget {
+    background-color: #e0e0e0;
+    height: 20px;
+    margin-bottom: 10px;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    margin-right: 10px;
+  }
+  
+  .project-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .filter-section {
+    margin-bottom: 20px;
+  }
+  
+  .filter {
+    margin-bottom: 10px;
+  }
+  
+  .skeleton-loader {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f0f0f0;
+  }
+  
+  .skeleton-title,
+  .skeleton-description,
+  .skeleton-budget {
+    background-color: #e0e0e0;
+    height: 20px;
+    margin-bottom: 10px;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form input,
+  form textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  form button {
+    margin-right: 10px;
+  }
+  
+ 
